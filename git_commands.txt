@@ -1,0 +1,92 @@
+history
+    1  exot
+    2  exit
+    3  ls
+    4  mkdir shell
+    5  ls
+    6  cd shell/
+    7  echo "Hello Dosto"
+    8  mkdir tws
+    9  ls
+   10  vim hello.txt
+   11  cat hello.txt 
+   12  vim hello.txt
+   13  ls
+   14  git clone https://github.com/LondheShubham153/Shell-Scripting-For-DevOps.git
+   15  ls
+   16  cd day03
+   17  ls
+   18  ./deploy_django_app.sh 
+   19  hostname -I
+   20  ./deploy_django_app.sh 
+   21  sudo lsof -i :80
+   22  sudo systemctl stop nginx
+   23  sudo lsof -i :80
+   24  ./deploy_django_app.sh 
+   25  cd ../ec2/
+   26  clear
+   27  aws --version
+   28  ls
+   29  chmod 700 ec
+   30  chmod 700 create_ec2.sh 
+   31  ls
+   32  ./create_ec2.sh 
+   33  ls
+   34  git clone https://github.com/LondheShubham153/two-tier-flask-app.git
+   35  ls
+   36  cd two-tier-flask-app/
+   37  clear
+   38  ls
+   39  touch Makefile
+   40  shell uname
+   41  uname
+   42  clear
+   43  ls 
+   44  make build
+   45  sudo apt install make
+   46  make build
+   47  which docker
+   48  which docker-compose
+   49  sudo apt-get update
+   50  make build
+   51  sudo usermod -aG docker $USER
+   52  newgrp docker
+   53  ls
+   54  clear
+   55  ls
+   56  ls -l
+   57  clear
+   58  ls -l
+   59  rm testing.py
+   60  ls
+   61  clear
+   62  git init
+   63  clear
+   64  ls
+   65  ls -a
+   66  clear
+   67  ls .git/
+   68  git status
+   69  clear
+   70  git status
+   71  git add testing.py 
+   72  git status
+   73  git rm --cached testing.py 
+   74  git status
+   75  git add testing.py 
+   76  git status
+   77  clear
+   78  git commit -m "added test"
+   79  git config --global user.name "akash9889Git"
+   80  git config --global user.email "akashaws9889@gmail.com"
+   81  git commit -m "added test"
+   82  git status
+   83  rm testing.py 
+   84  clear
+   85  git status
+   86  git restore testing.py
+   87  ls
+   88  clear
+   89  git status
+   90  touch git_commands.txt
+   91  history
