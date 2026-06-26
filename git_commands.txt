@@ -90,3 +90,38 @@ history
    89  git status
    90  touch git_commands.txt
    91  history
+92  git status
+   93  git add git_commands.txt 
+   94  git status
+   95  clear
+   96  git commit -m "added git commands"
+   97  git status
+   98  clear
+   99  git remote -v
+  100  git remote -v
+  102  git status
+  103  git branch 
+  104  git remote set-url origin
+  106  git remote -v
+  107  git push origin master
+  108  ls
+  109  cd ..
+  110  ls
+  111  mkdir git-demo-new
+  112  cd git
+  113  cd ../git-demo-new/
+  114  clear
+  115  git clone https://github.com/akash9889Git/github-for-devops-workshop-1.git
+  116  ls
+  117  cd github-for-devops-workshop-1/
+  118  ls
+  119  clear
+  120  cd ..
+  121  ls
+  122  cd ..
+  123  ls
+  124  cd git
+  125  ls
+  126  clear
+  127  git history
+  128  history 
